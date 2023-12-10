@@ -1,0 +1,3 @@
+default ICON "icons/unknown_alert_14463.ico"
+positive ICON "icons/status_sign_positive_checked_check_accepted_success_icon_220294.ico"
+negative ICON "icons/status_sign_negative_cancel_icon_220300.ico"
